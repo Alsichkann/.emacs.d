@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: interval
+# key: int
+# --
+setInterval(function() {
+    $0
+}, ${1:1000});

@@ -1,0 +1,57 @@
+[submodule "site-lisp/change-inner"]
+	path = site-lisp/change-inner
+	url = git://github.com/emacsmirror/change-inner.git
+[submodule "site-lisp/coffee-mode"]
+	path = site-lisp/coffee-mode
+	url = git://github.com/defunkt/coffee-mode.git
+[submodule "site-lisp/expand-region.el"]
+	path = site-lisp/expand-region.el
+	url = git://github.com/magnars/expand-region.el.git
+[submodule "site-lisp/find-file-in-project"]
+	path = site-lisp/find-file-in-project
+	url = https://github.com/technomancy/find-file-in-project.git
+[submodule "site-lisp/jade-mode"]
+	path = site-lisp/jade-mode
+	url = git://github.com/brianc/jade-mode.git
+[submodule "site-lisp/icicles"]
+	path = site-lisp/icicles
+	url = https://github.com/emacsmirror/icicles.git
+[submodule "site-lisp/js2-mode"]
+	path = site-lisp/js2-mode
+	url = git://github.com/mooz/js2-mode.git
+[submodule "site-lisp/jump-char"]
+	path = site-lisp/jump-char
+	url = https://github.com/lewang/jump-char.git
+[submodule "site-lisp/mark-multiple.el"]
+	path = site-lisp/mark-multiple.el
+	url = https://github.com/magnars/mark-multiple.el.git
+[submodule "site-lisp/nrepl.el"]
+	path = site-lisp/nrepl.el
+	url = git://github.com/kingtim/nrepl.el.git
+[submodule "site-lisp/perspective-el"]
+	path = site-lisp/perspective-el
+	url = git://github.com/magnars/perspective-el.git
+[submodule "site-lisp/predictive"]
+	path = site-lisp/predictive
+	url = git://github.com/emacsmirror/predictive.git
+[submodule "site-lisp/smart-forward.el"]
+	path = site-lisp/smart-forward.el
+	url = git://github.com/magnars/smart-forward.el.git
+[submodule "site-lisp/smex"]
+	path = site-lisp/smex
+	url = https://github.com/nonsequitur/smex.git
+[submodule "site-lisp/swank-js"]
+	path = site-lisp/swank-js
+	url = git://github.com/swank-js/swank-js.git
+[submodule "site-lisp/wrap-region"]
+	path = site-lisp/wrap-region
+	url = https://github.com/magnars/wrap-region.git
+[submodule "site-lisp/yasnippet"]
+	path = site-lisp/yasnippet
+	url = git://github.com/capitaomorte/yasnippet.git
+[submodule "site-lisp/zencoding"]
+	path = site-lisp/zencoding
+	url = git://github.com/rooney/zencoding.git
+[submodule "site-lisp/clojure-mode"]
+	path = site-lisp/clojure-mode
+	url = git://github.com/technomancy/clojure-mode.git

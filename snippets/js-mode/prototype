@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: prototype
+# key: p
+# --
+${1:Class}.prototype.${2:attr} = function(${3:n}) {
+    $0
+};
