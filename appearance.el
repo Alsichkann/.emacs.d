@@ -20,8 +20,4 @@
 ;; (set-default-font "Menlo-12")
 ;; (set-default-font "Lucida Console-12")
 
-;; Set time format
-(display-time-mode 1)
-(setq display-time-24hr-format t)
-
 (provide 'appearance)
