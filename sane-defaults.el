@@ -93,7 +93,7 @@
 (put 'narrow-to-region 'disabled nil)
 
 ;; Auto fill mode
-(auto-fill-mode t)
+(auto-fill-mode 1)
 (set-fill-column 80)
 
 ;; Set tab
