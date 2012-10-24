@@ -1,3 +1,5 @@
+(require 'pos-tip)
+
 (require 'auto-complete-config)
 (require 'auto-complete-auctex)
 
@@ -9,6 +11,7 @@
 (setq ac-auto-show-menu 0.2)
 (setq ac-ignore-case t)
 (setq ac-fuzzy-enable t)
+(setq ac-quick-help-delay 1.0)
 
 (define-key ac-menu-map "\C-n" 'ac-next)
 (define-key ac-menu-map "\C-p" 'ac-previous)
