@@ -8,7 +8,7 @@
 (setq ac-use-menu-map t)
 (setq ac-auto-show-menu 0.2)
 (setq ac-ignore-case t)
-(setq ac-use-fuzzy t)
+(setq ac-fuzzy-enable t)
 
 (define-key ac-menu-map "\C-n" 'ac-next)
 (define-key ac-menu-map "\C-p" 'ac-previous)
@@ -25,5 +25,7 @@
                            ac-source-files-in-current-dir
                            ac-source-filename
                            ac-source-dictionary))
+
+(ac-flyspell-workaround)
 
 (provide 'setup-autocomplete)
