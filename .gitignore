@@ -11,3 +11,4 @@ emms
 .DS_Store
 eshell
 ac-comphist.dat
+*.cache
