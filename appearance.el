@@ -16,7 +16,8 @@
 ;; (set-default-font "Monofur-13")
 ;; (set-default-font "YaHei Consolas Hybrid-12")
 ;; (set-default-font "Monaco-11")
-(set-default-font "Inconsolata-12")
+(set-default-font "Consolas-11")
+;; (set-default-font "Inconsolata-12")
 ;; (set-default-font "Menlo-12")
 ;; (set-default-font "Lucida Console-12")
 
