@@ -39,6 +39,9 @@
 (require 'lacarte)
 (require 'thingopt)
 
+(require 'projectile)
+(projectile-global-mode)
+
 (require 'smex)
 (smex-initialize)
 
