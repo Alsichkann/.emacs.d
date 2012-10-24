@@ -94,7 +94,7 @@
 
 ;; Auto fill mode
 (auto-fill-mode 1)
-(set-fill-column 80)
+;; (set-fill-column 80)
 
 ;; Set tab
 (setq-default indent-tabs-mode nil)
