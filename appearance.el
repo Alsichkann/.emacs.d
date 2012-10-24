@@ -11,12 +11,12 @@
           (lambda () 
             (set-scroll-bar-mode nil)))
 ;; Font
-(set-default-font "DejaVu Sans Mono-11")
+;; (set-default-font "DejaVu Sans Mono-11")
 ;; (set-default-font "Courier 10 Pitch-11")
 ;; (set-default-font "Monofur-13")
 ;; (set-default-font "YaHei Consolas Hybrid-12")
 ;; (set-default-font "Monaco-11")
-;; (set-default-font "Inconsolata-13")
+(set-default-font "Inconsolata-12")
 ;; (set-default-font "Menlo-12")
 ;; (set-default-font "Lucida Console-12")
 
