@@ -1,4 +1,4 @@
-# A Emacs newbie setting  #
+# A Emacs newbie's setting  #
 
 What's this
 ----------
