@@ -64,3 +64,6 @@
 [submodule "site-lisp/ace-jump-mode"]
 	path = site-lisp/ace-jump-mode
 	url = git://github.com/winterTTr/ace-jump-mode.git
+[submodule "site-lisp/rainbow-mode"]
+	path = site-lisp/rainbow-mode
+	url = git://github.com/emacsmirror/rainbow-mode.git
