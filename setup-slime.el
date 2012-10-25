@@ -1,9 +1,7 @@
 (setq slime-lisp-implementations
       '((sbcl ("/opt/sbcl/bin/sbcl" "--core" "/opt/sbcl/lib/sbcl/sbcl.core")
               :coding-system utf-8-unix
-              :env ("SBCL_HOME=/opt/sbcl/lib/sbcl"))
-        (ccl ("/opt/ccl/lx86cl64")
-             :coding-system utf-8-unix)))
+              :env ("SBCL_HOME=/opt/sbcl/lib/sbcl"))))
 
 (require 'slime-autoloads)
 (slime-setup '(slime-js slime-repl))
@@ -14,6 +12,7 @@
           (bolp))
       (call-interactively 'lisp-indent-line)
     (call-interactively 'slime-indent-and-complete-symbol)))
+
 (eval-after-load
     "lisp-mode"
   '(progn

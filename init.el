@@ -64,6 +64,7 @@
 (require 'setup-latex)
 (require 'setup-org)
 (require 'setup-shell)
+(require 'setup-slime)
 
 ;; Misc
 (require 'sane-defaults)
