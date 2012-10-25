@@ -17,6 +17,7 @@
   (interactive)
   (apply #'make-comint "swank-js"  slime-js-swank-command nil slime-js-swank-args))
 
+;;;###autoload
 (defun slime-js-jack-in-node ()
   "Start a swank-js server and connect to it, opening a repl."
   (interactive)
@@ -25,6 +26,7 @@
   (setq slime-protocol-version 'ignore)
   (slime-connect "localhost" 4005))
 
+;;;###autoload
 (defun slime-js-jack-in-browser ()
   "Start a swank-js server, connect to it, open a repl, open a browser, connect to that."
   (interactive)

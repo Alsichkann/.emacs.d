@@ -55,6 +55,8 @@
 (require 'pretty-lambdada)
 (pretty-lambda-for-modes)
 
+(autoload 'moccur-grep-find "setup-moccur" nil t)
+
 (require 'setup-package)
 (require 'setup-ace-jump)
 (require 'setup-autocomplete)
