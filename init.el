@@ -74,9 +74,6 @@
 ;; Auto mode mapping
 (require 'mode-mappings)
 
-;; Auto load
-(require 'auto-load-libs)
-
 ;; Set up key bindings
 (require 'key-bindings)
 
