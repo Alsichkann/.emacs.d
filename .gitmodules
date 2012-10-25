@@ -94,3 +94,6 @@
 [submodule "site-lisp/autopair-el"]
 	path = site-lisp/autopair-el
 	url = git://github.com/m2ym/autopair-el.git
+[submodule "site-lisp/ac-slime"]
+	path = site-lisp/ac-slime
+	url = git://github.com/purcell/ac-slime.git
