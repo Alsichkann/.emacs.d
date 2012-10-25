@@ -67,3 +67,27 @@
 [submodule "site-lisp/rainbow-mode"]
 	path = site-lisp/rainbow-mode
 	url = git://github.com/emacsmirror/rainbow-mode.git
+[submodule "site-lisp/mustache"]
+	path = site-lisp/mustache
+	url = git://github.com/mustache/emacs.git
+[submodule "site-lisp/json-mode"]
+	path = site-lisp/json-mode
+	url = git://github.com/joshwnj/json-mode.git
+[submodule "site-lisp/markdown-mode"]
+	path = site-lisp/markdown-mode
+	url = git://github.com/defunkt/markdown-mode.git
+[submodule "site-lisp/highlight-symbol.el"]
+	path = site-lisp/highlight-symbol.el
+	url = git://github.com/nschum/highlight-symbol.el.git
+[submodule "site-lisp/multi-shell"]
+	path = site-lisp/multi-shell
+	url = git://github.com/emacsmirror/multi-shell.git
+[submodule "site-lisp/pretty-lambdada"]
+	path = site-lisp/pretty-lambdada
+	url = git://github.com/emacsmirror/pretty-lambdada.git
+[submodule "site-lisp/thingopt-el"]
+	path = site-lisp/thingopt-el
+	url = git://github.com/m2ym/thingopt-el.git
+[submodule "site-lisp/wc-mode"]
+	path = site-lisp/wc-mode
+	url = git://github.com/bnbeckwith/wc-mode.git
