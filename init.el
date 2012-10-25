@@ -55,6 +55,7 @@
 (require 'pretty-lambdada)
 (pretty-lambda-for-modes)
 
+(require 'setup-package)
 (require 'setup-ace-jump)
 (require 'setup-autocomplete)
 (require 'setup-autopair)
