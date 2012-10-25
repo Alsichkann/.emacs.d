@@ -91,3 +91,6 @@
 [submodule "site-lisp/wc-mode"]
 	path = site-lisp/wc-mode
 	url = git://github.com/bnbeckwith/wc-mode.git
+[submodule "site-lisp/autopair-el"]
+	path = site-lisp/autopair-el
+	url = git://github.com/m2ym/autopair-el.git
