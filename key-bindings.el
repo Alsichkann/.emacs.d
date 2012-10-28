@@ -7,7 +7,7 @@
 (global-set-key [f11] 'toggle-fullscreen)
 
 ;; File & directory
-(global-set-key (kbd "C-x f") 'recentf-ido-find-file)
+(global-set-key (kbd "C-c f") 'recentf-ido-find-file)
 (global-set-key (kbd "C-x M-f") 'find-or-create-file-at-point)
 (global-set-key (kbd "C-x C-j") 'open-buffer-directory)
 
