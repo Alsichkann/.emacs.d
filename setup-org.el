@@ -30,9 +30,9 @@
          :publishing-directory "~/org/pub"
          :section-numbers nil
          :table-of-contents nil
-         ;; :style "<link rel=\"stylesheet\"
-         ;;             href=\"../css/worg.css\"
-         ;;             type=\"text/css\"/>"
+         :style "<link rel=\"stylesheet\"
+                     href=\"../css/simple.css\"
+                     type=\"text/css\"/>"
          )))
 
 (provide' setup-org)
