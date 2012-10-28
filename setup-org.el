@@ -2,7 +2,7 @@
 (setq org-directory "~/org")
 (setq org-export-html-postamble nil)
 
-(add-hook 'org-mode-hook 'turn-on-auto-fill)
+;;(add-hook 'org-mode-hook 'turn-on-auto-fill)
 
 ;; TODO
 (setq org-log-done 'time)

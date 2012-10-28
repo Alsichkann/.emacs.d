@@ -93,8 +93,8 @@
 (put 'narrow-to-region 'disabled nil)
 
 ;; Auto fill mode
-(auto-fill-mode 1)
-;; (set-fill-column 80)
+;; (auto-fill-mode 1)
+(setq-default auto-fill-function 'do-auto-fill)
 
 ;; Set tab
 (setq-default indent-tabs-mode nil)
